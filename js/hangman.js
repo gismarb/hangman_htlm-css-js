@@ -52,6 +52,7 @@ var job_titles = [
   "delegado"
 ]
 
+
 alert("Adivinhe qual é a profissão!");
 alert("Mesmo que a palavra tenha acento, não iremos utilizar o mesmo para este jogo!");
 
